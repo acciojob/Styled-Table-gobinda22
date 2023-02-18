@@ -1,1 +1,32 @@
 /* your code */
+table{
+	text-align:left;
+	width:100%;
+    border-radius:10px;
+	margin: 10px;
+	background: cadetblue;
+	border-collapse: collapse;
+	color: dimgray;
+	
+}
+#body-1{
+	background-color:white;
+	
+}
+#head{
+	color: white;
+}
+#body-2{
+    
+	background-color:lightgray;
+	
+}
+#body-3{
+	
+	background-color:white;
+	
+}
+#body-4{
+	background-color: lightgray;
+	
+}
